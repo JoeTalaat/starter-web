@@ -7,6 +7,6 @@ As stated above
 ##Deployment
 Simple web Project
 ##How To Contriubte
-
+please fork this repos
 ###CopyRight
 .gitraining
