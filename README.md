@@ -7,3 +7,6 @@ As stated above
 ##Deployment
 Simple web Project
 ##How To Contriubte
+
+###CopyRight
+.gitraining
