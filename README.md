@@ -10,4 +10,4 @@ Simple web Project
 ##How To Contriubte
 please fork this repos
 ###CopyRight
-.gitraining
+.gitraining . All rights reserved
