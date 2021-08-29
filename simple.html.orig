@@ -1,8 +1,12 @@
 <!DOCTYPE html>
 <!-- copyright
+<<<<<<< HEAD
+silly changes -->
+=======
 these changes are from the feacture branch bigtrouble -->
+>>>>>>> 3bab50e (fb adding some trouble to simple.html)
 <head>
-	<title>Updating title a little bit/title>
+	<title>A very respectful website</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -14,13 +18,17 @@ these changes are from the feacture branch bigtrouble -->
 </head>
 <body>
 	<main class="container">
-	<!-- Content Goes Here -->
+	<!-- junk junk junk -->
 		<p>
+<<<<<<< HEAD
 			Just stuff for now
+=======
+			Just nothing but trouble
+>>>>>>> 3bab50e (fb adding some trouble to simple.html)
 		</p>
 	</main>
 	<footer class="container">
-		<p>git training all rights reserved</p>
+		<p>&copy; Company 2014</p>
 	</footer>
 </body>
 </html>
